@@ -9,4 +9,30 @@
     "likes" : 0,
     "hates" : 0,
     "subscribe" : 33
+},
+{
+    "id" : 7,
+    "title": "더보기1",
+    "image": "https://placeimg.com/270/150/arch",
+    "userImage": "https://placeimg.com/100/100/arch",
+    "username" : "더보기관리자1",
+    "date": "2021.05.24",
+    "click" : 875,
+    "likes" : 0,
+    "hates" : 0,
+    "subscribe" : 33
+},
+{
+    "id" : 8,
+    "title": "더보기1",
+    "image": "https://placeimg.com/270/150/arch",
+    "userImage": "https://placeimg.com/100/100/arch",
+    "username" : "더보기관리자1",
+    "date": "2021.05.24",
+    "click" : 875,
+    "likes" : 0,
+    "hates" : 0,
+    "subscribe" : 33
 }
+
+
