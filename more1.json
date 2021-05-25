@@ -1,0 +1,12 @@
+{
+    "id" : 6,
+    "title": "더보기2",
+    "image": "https://placeimg.com/270/150/person",
+    "userImage": "https://placeimg.com/100/100/nature",
+    "username" : "더보기관리자2",
+    "date": "2021.05.25",
+    "click" : 500,
+    "likes" : 444,
+    "hates" : 0,
+    "subscribe" : 33
+}
