@@ -1,12 +1,12 @@
 {
     "id" : 6,
-    "title": "더보기1",
+    "title": "[VLOG] 일상 브이로그 | 직장인 브이로그 | 퇴근 후 일상",
     "image": "https://placeimg.com/270/150/arch",
     "userImage": "https://placeimg.com/100/100/arch",
-    "username" : "더보기관리자1",
-    "date": "2021.05.24",
-    "click" : 875,
-    "likes" : 0,
-    "hates" : 0,
-    "subscribe" : 33
+    "username" : "하누",
+    "date": "2021.5.31",
+    "click" : 160,
+    "likes" : 50,
+    "hates" : 3,
+    "subscribe" : 469
 }
